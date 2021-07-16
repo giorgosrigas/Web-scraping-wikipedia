@@ -1,5 +1,3 @@
-# CMT309 Coursework 2
-# student number: C1937886
 
 # import wikipedia 1.4
 import wikipedia
